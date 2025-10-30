@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\aspnetcore\\CounterAPI\\CounterAPI.csproj": {}
+    "C:\\CounterSolution\\CounterAPI\\CounterAPI.csproj": {}
   },
   "projects": {
-    "C:\\aspnetcore\\CounterAPI\\CounterAPI.csproj": {
+    "C:\\CounterSolution\\CounterAPI\\CounterAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\aspnetcore\\CounterAPI\\CounterAPI.csproj",
+        "projectUniqueName": "C:\\CounterSolution\\CounterAPI\\CounterAPI.csproj",
         "projectName": "CounterAPI",
-        "projectPath": "C:\\aspnetcore\\CounterAPI\\CounterAPI.csproj",
+        "projectPath": "C:\\CounterSolution\\CounterAPI\\CounterAPI.csproj",
         "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "C:\\aspnetcore\\CounterAPI\\obj\\",
+        "outputPath": "C:\\CounterSolution\\CounterAPI\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

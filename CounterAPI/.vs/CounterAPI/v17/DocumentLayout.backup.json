@@ -1,14 +1,14 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\aspnetcore\\CounterAPI\\",
+  "WorkspaceRootPath": "C:\\CounterSolution\\CounterAPI\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{955E81AC-0FDE-4E36-B08A-2D49EDDB0314}|CounterAPI.csproj|c:\\aspnetcore\\counterapi\\controllers\\countercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{955E81AC-0FDE-4E36-B08A-2D49EDDB0314}|CounterAPI.csproj|c:\\countersolution\\counterapi\\controllers\\countercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{955E81AC-0FDE-4E36-B08A-2D49EDDB0314}|CounterAPI.csproj|solutionrelative:controllers\\countercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{955E81AC-0FDE-4E36-B08A-2D49EDDB0314}|CounterAPI.csproj|c:\\aspnetcore\\counterapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{955E81AC-0FDE-4E36-B08A-2D49EDDB0314}|CounterAPI.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{955E81AC-0FDE-4E36-B08A-2D49EDDB0314}|CounterAPI.csproj|c:\\countersolution\\counterapi\\models\\counterstore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{955E81AC-0FDE-4E36-B08A-2D49EDDB0314}|CounterAPI.csproj|solutionrelative:models\\counterstore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -35,24 +35,25 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\aspnetcore\\CounterAPI\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\aspnetcore\\CounterAPI\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAKAAAAAAAAAA==",
+              "Title": "CounterStore.cs",
+              "DocumentMoniker": "C:\\CounterSolution\\CounterAPI\\Models\\CounterStore.cs",
+              "RelativeDocumentMoniker": "Models\\CounterStore.cs",
+              "ToolTip": "C:\\CounterSolution\\CounterAPI\\Models\\CounterStore.cs",
+              "RelativeToolTip": "Models\\CounterStore.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAIAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-29T17:16:48.137Z"
+              "WhenOpened": "2025-10-30T10:07:49.655Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "CounterController.cs",
-              "DocumentMoniker": "C:\\aspnetcore\\CounterAPI\\Controllers\\CounterController.cs",
+              "DocumentMoniker": "C:\\CounterSolution\\CounterAPI\\Controllers\\CounterController.cs",
               "RelativeDocumentMoniker": "Controllers\\CounterController.cs",
-              "ToolTip": "C:\\aspnetcore\\CounterAPI\\Controllers\\CounterController.cs",
+              "ToolTip": "C:\\CounterSolution\\CounterAPI\\Controllers\\CounterController.cs",
               "RelativeToolTip": "Controllers\\CounterController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAcAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABcAAAA0AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-29T17:15:39.217Z",
               "EditorCaption": ""

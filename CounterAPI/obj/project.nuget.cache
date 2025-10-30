@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "fzJCb2sm+xU=",
+  "dgSpecHash": "cNp+/EhbI8U=",
   "success": true,
-  "projectFilePath": "C:\\aspnetcore\\CounterAPI\\CounterAPI.csproj",
+  "projectFilePath": "C:\\CounterSolution\\CounterAPI\\CounterAPI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Admin\\.nuget\\packages\\microsoft.aspnetcore.openapi\\9.0.8\\microsoft.aspnetcore.openapi.9.0.8.nupkg.sha512",
     "C:\\Users\\Admin\\.nuget\\packages\\microsoft.openapi\\1.6.17\\microsoft.openapi.1.6.17.nupkg.sha512"
